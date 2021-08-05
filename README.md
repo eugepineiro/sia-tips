@@ -1,2 +1,2 @@
 # ITBA - Sistemas de Inteligencia Artificial
-Tips y contenido interesante sobre SIA
+## Tips y contenido interesante sobre SIA
