@@ -23,9 +23,7 @@ from sklearn.preprocessing import StandardScaler
 ```
 
 ### [scipy](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html) 
-TP5
 Se trata de una librería de optimización. Ofrece varios métodos como Powell, BFGS, Newton, entre otros. 
-En particular, usamos el de [Powell](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.fmin_powell.html) para el TP5 sobre Deep Learning
- 
+En particular, usamos el de [Powell](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.fmin_powell.html) para el TP5 sobre Deep Learning. [Ver Instalación](https://www.scipy.org/install.html)
 
 ## Java

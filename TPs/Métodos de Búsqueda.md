@@ -27,3 +27,7 @@ Las heurísticas informan al agente en su búsqueda y lo ayudan a evitar caminos
 - ¿Qué caminos lo hacen favorecer y cuáles evitar?
 Una forma de derivar heurísticas consiste en inspeccionar los caminos recorridos por los métodos no informados. Siempre vamos a notar caminos que sabemos que no llevan a la solución, o bien pasos que no tienen sentido. ¿Cómo lo “codificamos” en una heurística?
 
+## Links útiles 
+[Juego de los Edificios](psicoactiva.com/juegos-inteligencia/area-espacial/rascacielos)
+
+
