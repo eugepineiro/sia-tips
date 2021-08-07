@@ -33,3 +33,11 @@ Se debería buscar que la división sea equitativa y no del estilo "Yo presento 
 Tener en cuenta que es requisito para la aprobación de los TPs que todos los miembros conozcan como resolvieron todo lo concierne a cada TP. Esta estrategía es una buena manera de afianzar todo y no únicamente focalizarse en un tema particular de los abordados por el TP.
 
 Tener presente que en el caso de que sólo un miembro del equipo presente un ejercicio o tema particular sus compañeros sean probablemente interpelados.
+
+## Incluir Gráficos Representativos para los Datos que se Muestren
+
+Los datos se pueden mostrar de muchas formas como sueltos, con tablas o con gráficos.
+
+En cada caso esta bueno evaluar cuál es la mejor manera de mostrarlos por varios motivos: nos ayuda a mostrar mejor alguna cuestión y, ¡podemos encontrar algo de interés observandolo! 
+
+Puede ser que algo que con los datos crudos jamás ibamos a encontrar, aparezca tan claro como el agua (y a veces no tanto) en un gráfico. 
