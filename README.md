@@ -13,5 +13,3 @@ Tips para resolver los trabajos prácticos de la materia, librerías útiles, vi
 - :newspaper: Artículos 
 - :page_with_curl: Papers 
 - :tv: Videos 
-
-![Image](https://www.pngkey.com/png/full/437-4379380_networking-networking-png-portable-network-graphics.png)

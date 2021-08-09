@@ -17,3 +17,5 @@
 
 ["Why AI is so difficult?"](https://arxiv.org/pdf/2104.12871.pdf)
 - de Melanie Mitchel, una referente en sistemas complejos y algoritmos genéticos
+
+[Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G)
