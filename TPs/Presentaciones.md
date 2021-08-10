@@ -58,4 +58,5 @@ presentar algo de este estilo:
 |--|--|
 | DFS | 40ms +- 2ms |
 | BFS | 100ms +- 1ms |
+
 donde 40ms y 100ms son los promedios de los tiempos de ejecución para cada método, y 2ms y 1ms los respectivos desvíos estándar.
