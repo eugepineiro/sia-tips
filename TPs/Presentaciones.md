@@ -51,7 +51,9 @@ Por ejemplo, en vez de presentar
 |--|--|
 | DFS | 43ms |
 | BFS | 103ms |
+
 presentar algo de este estilo:
+
 | Algoritmo | Tiempo de ejecución |
 |--|--|
 | DFS | 40ms +- 2ms |
