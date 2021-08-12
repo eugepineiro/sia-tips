@@ -41,3 +41,22 @@ Los datos se pueden mostrar de muchas formas como sueltos, con tablas o con grá
 En cada caso esta bueno evaluar cuál es la mejor manera de mostrarlos por varios motivos: nos ayuda a mostrar mejor alguna cuestión y, ¡podemos encontrar algo de interés observandolo! 
 
 Puede ser que algo que con los datos crudos jamás ibamos a encontrar, aparezca tan claro como el agua (y a veces no tanto) en un gráfico. 
+
+**Al momento de presentar mediciones de cantidades estocásticas nunca presentar mediciones únicas.** Ejemplos de cantidades estocásticas incluyen el tiempo de ejecucion de los programas o el mejor fitness encontrado por el motor de algoritmos geneticos. Para reportar mediciones de estas cantidades **lo que se busca es dar a entender las distribuciones que se observaron durante los experimentos**. 
+
+Una manera de lograr esto ultimo es realizando varias mediciones, promediándolas entre sí y calculando su desvío estándar. 
+
+Por ejemplo, en vez de presentar
+| Algoritmo | Tiempo de ejecución |
+|--|--|
+| DFS | 43ms |
+| BFS | 103ms |
+
+presentar algo de este estilo:
+
+| Algoritmo | Tiempo de ejecución |
+|--|--|
+| DFS | 40ms +- 2ms |
+| BFS | 100ms +- 1ms |
+
+donde 40ms y 100ms son los promedios de los tiempos de ejecución para cada método, y 2ms y 1ms los respectivos desvíos estándar.
