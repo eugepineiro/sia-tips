@@ -35,7 +35,7 @@ from matplotlib.animation import FuncAnimation
 
 ### [sklearn](https://scikit-learn.org/stable/index.html) 
 Se trata de una libería para anáisis de datos. 
-En particular, usamos para el TP4 de Aprendizaje No Supervido el modulo de [decomposition](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) para Principal component analysis (PCA) y el de [preprocessing](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html) para estandarizar features.
+En particular, usamos para el TP4 de Aprendizaje No Supervisado el modulo de [decomposition](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) para Principal component analysis (PCA) y el de [preprocessing](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html) para estandarizar features.
 [Ver instalación](https://scikit-learn.org/0.16/install.html)
 
 ```python
