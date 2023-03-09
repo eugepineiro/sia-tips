@@ -84,3 +84,7 @@ presentar algo de este estilo:
 
 donde 40ms y 100ms son los promedios de los tiempos de ejecución para cada método, y 2ms y 1ms los respectivos desvíos estándar.
 
+## Archivo de Configuración 
+
+Todos los trabajos prácticos cuentan con múltiples parámetros para evaluar. Se aconseja tener un archivo de configuración .json o .yml (o lo que les parezca más cómodo) para que les resulte más sencillo variarlos. 
+
