@@ -88,3 +88,7 @@ donde 40ms y 100ms son los promedios de los tiempos de ejecución para cada mét
 
 Todos los trabajos prácticos cuentan con múltiples parámetros para evaluar. Se aconseja tener un archivo de configuración .json o .yml (o lo que les parezca más cómodo) para que les resulte más sencillo variarlos. 
 
+## Archivo README.md
+
+El repositorio deberá contar con un archivo README.md con la documentación correspondiente de cada uno de los parámetros mencionados en el archivo de configuración y cómo se ejecuta el programa.
+
