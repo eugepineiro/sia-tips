@@ -4,6 +4,8 @@ El objetivo del trabajo práctico es crear un generador de soluciones para disti
 
 ## Tips
 
+### Implementación 
+
 #### 1. Estados Muertos 
 Considerar que hay ciertas situaciones en las que ya no se puede llegar a la solución. Por Ejemplo, para el Sokoban:
 - Una posición con esquina de paredes 
@@ -26,6 +28,10 @@ Las heurísticas informan al agente en su búsqueda y lo ayudan a evitar caminos
 - ¿De qué forma la heurística ayuda al agente? 
 - ¿Qué caminos lo hacen favorecer y cuáles evitar?
 Una forma de derivar heurísticas consiste en inspeccionar los caminos recorridos por los métodos no informados. Siempre vamos a notar caminos que sabemos que no llevan a la solución, o bien pasos que no tienen sentido. ¿Cómo lo “codificamos” en una heurística?
+
+### Presentación de Resultadps 
+
+- Es importante la comparación entre los distintos métodos de búsqueda. ¿Cuál es conveniente utilizar en cada caso? ¿Cuándo performa uno mejor que otro? ¿Los resultados son los mismos para todos los problemas? 
 
 ## Links útiles 
 
