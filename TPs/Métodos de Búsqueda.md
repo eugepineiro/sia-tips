@@ -29,7 +29,7 @@ Las heurísticas informan al agente en su búsqueda y lo ayudan a evitar caminos
 - ¿Qué caminos lo hacen favorecer y cuáles evitar?
 Una forma de derivar heurísticas consiste en inspeccionar los caminos recorridos por los métodos no informados. Siempre vamos a notar caminos que sabemos que no llevan a la solución, o bien pasos que no tienen sentido. ¿Cómo lo “codificamos” en una heurística?
 
-### Presentación de Resultadps 
+### Presentación de Resultados 
 
 - Es importante la comparación entre los distintos métodos de búsqueda. ¿Cuál es conveniente utilizar en cada caso? ¿Cuándo performa uno mejor que otro? ¿Los resultados son los mismos para todos los problemas? 
 
