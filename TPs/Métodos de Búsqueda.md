@@ -15,7 +15,7 @@ Considerar que hay ciertas situaciones en las que ya no se puede llegar a la sol
 #### 2. Estados Repetidos
 - No regresar al estado padre 
 - No crear rutas con ciclos
-- No expandir estados que ya extendí
+- No expandir estados que ya expandí
 - Ojo: trade-off con costo computacional
 
 #### 3. Diseño de tableros
@@ -24,14 +24,19 @@ Considerar que hay ciertas situaciones en las que ya no se puede llegar a la sol
 - Si usan los mismos caracteres que otros grupos se pueden compartir tableros y comparar resultados (puede llegar a ser una buena métrica para saber si tiene algún error de implementación)
 
 #### 4. Heurísticas 
-Las heurísticas informan al agente en su búsqueda y lo ayudan a evitar caminos inútiles
+Las heurísticas informan al agente en su búsqueda, le dan información sobre qué tan cerca está el estado actual del estado objetivo. Esto les permite explorar en primer lugar los caminos más prometedores.
+A la hora de definir una heurística se pueden plantear preguntas como: 
 - ¿De qué forma la heurística ayuda al agente? 
 - ¿Qué caminos lo hacen favorecer y cuáles evitar?
 Una forma de derivar heurísticas consiste en inspeccionar los caminos recorridos por los métodos no informados. Siempre vamos a notar caminos que sabemos que no llevan a la solución, o bien pasos que no tienen sentido. ¿Cómo lo “codificamos” en una heurística?
+Tener en cuenta cómo es la heurística, si es admisible entonces no sobreestima el costo real. 
+Evitar utilizar heurísticas triviales porque termina aportando más el costo de la solución que la misma heurística. Por ejemplo, para el Sokoban una heurística trivial sería la cantidad de cajas por ubicas o la cantidad de objetivos. 
 
-### Presentación de Resultadps 
+### Presentación de Resultados 
 
 - Es importante la comparación entre los distintos métodos de búsqueda. ¿Cuál es conveniente utilizar en cada caso? ¿Cuándo performa uno mejor que otro? ¿Los resultados son los mismos para todos los problemas? 
+
+Recordatorio: A la hora de comparar tiempos ejecución se debe correr el algoritmos múltiples veces, realizar un promedio y calcular el desvío estándar.
 
 ## Links útiles 
 
