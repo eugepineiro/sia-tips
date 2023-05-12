@@ -34,7 +34,7 @@ Evitar utilizar heurísticas triviales porque termina aportando más el costo de
 
 ### Presentación de Resultados 
 
-- Es importante la comparación entre los distintos métodos de búsqueda. ¿Cuál es conveniente utilizar en cada caso? ¿Cuándo performa uno mejor que otro? ¿Los resultados son los mismos para todos los problemas? 
+- Es importante la comparación entre los distintos métodos de búsqueda. ¿Cuál es conveniente utilizar en cada caso? ¿Cuándo funciona uno mejor que otro? ¿Los resultados son los mismos para todos los problemas? 
 
 Recordatorio: A la hora de comparar tiempos ejecución entre los distintos métodos de búsqueda se debe correr cada algoritmo múltiples veces con los mismos parámetros, realizar un promedio y calcular el desvío estándar.
 

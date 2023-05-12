@@ -8,7 +8,7 @@ La presentación de los Trabajos Prácticos de la materia consiste en una serie 
 
 Al final de cada ejercicio se muestran los resultados y se deben sacar conclusiones a partir de esos resultados. 
 
-Todos los integrantes del grupo tienen que hablar, se recomienda ir turnandose cada 1 o 2 filminas (no dividirse por ejercicio ya que todos deben tener conocimiento sobre todos los temas) 
+Todos los integrantes del grupo tienen que hablar, se recomienda ir turnándose cada 1 o 2 filminas (no dividirse por ejercicio, ya que todos deben tener conocimiento sobre todos los temas) 
 
 ## No Dejar la Presentación para Último Momento
 
@@ -22,37 +22,37 @@ Por todo lo mencionado, es recomendable que no se realice la Presentación a úl
 
 La idea principal de estos trabajos prácticos es apelar a su curiosidad. Prueben, experimenten, generen hipótesis sobre lo que debería suceder y comprueben o refuten.
 
-En muchas ocasiones pensamos "Si pasa esto, seguro pasa esto otro", ¿seguro? Ese es un muy buen momento de poner manos a la obra y observar si es así. Todo es solo cuestión de cuestionar preguntandose "¿Por qué es así? ¿Es así? ¿Por qué no es asá?"
+En muchas ocasiones pensamos "Si pasa esto, seguro pasa esto otro", ¿seguro? Ese es un muy buen momento de poner manos a la obra y observar si es así. Todo es solo cuestión de cuestionar preguntándose "¿Por qué es así? ¿Es así? ¿Por qué no es asá?"
 
 ## Evitar Mostrar Código y Recaer en Detalles Técnicos de Implementación
 
-El lenguaje en el que se desarrolló el TP, el Diagrama de Clases, versiones de librerías entre otras cosas ocupan tiempo de presentación y no suman por lo que es preferible no incluirlo pero sí tenerlo en mente en caso de que se haga un pregunta sobre eso.
+El lenguaje en el que se desarrolló el TP, el Diagrama de Clases, versiones de librerías entre otras cosas ocupan tiempo de presentación y no suman por lo que es preferible no incluirlo, pero sí tenerlo en mente en caso de que se haga una pregunta sobre eso.
 
-Antes de incluir algún detalle de implementación esta bueno pensar si el mismo es relevante para el problema o el resultado obtenido. Esto no significa descartar todo detalle de implementación ya que cuestiones interesantes pueden surgir de la misma y puede ser fructífero explorarlas.
+Antes de incluir algún detalle de implementación está bueno pensar si el mismo es relevante para el problema o el resultado obtenido. Esto no significa descartar todo detalle de implementación ya que cuestiones interesantes pueden surgir de la misma y puede ser fructífero explorarlas.
 
 ## Evaluación de Parámetros
 
-Es importante para todos los trabajos prácticos definir los parámetros a utilizar y plasmar en la filmina qué parámetros se utilizaron para obtener los resultados que están mostrando. (Por Ej: tasa de aprendizaje, arquitectura de red, etc.). Esto se debe a que muchos resultados se ven afectados por el cambio de parámetros. Para comparar cómo afectan los parámetros a los resultados se debe variar un parámetro y fijar todos los demás. Es muy importante a la hora de evaluar resultados variar los parámetros, experimenten! 
+Es importante para todos los trabajos prácticos definir los parámetros a utilizar y plasmar en la filmina qué parámetros se utilizaron para obtener los resultados que están mostrando (por ej.: tasa de aprendizaje, arquitectura de red, etc.). Esto se debe a que muchos resultados se ven afectados por el cambio de parámetros. Para comparar cómo afectan los parámetros a los resultados se debe variar un parámetro y fijar todos los demás. ¡Es muy importante a la hora de evaluar resultados variar los parámetros, experimenten! 
 
 ## Practicar la Presentación Anteriormente
 
-A la hora de exponer un tema, es una buena práctica repasar lo que se va a exponer y más si es un grupo. Practicando se facilita lo que les recomendamos más abajo, evita olvidarse de algo que se quería mencionar, evita que nos trabemos y evita el no saber quien va o que hable una sola persona mucho tiempo.
+A la hora de exponer un tema, es una buena práctica repasar lo que se va a exponer y más si es un grupo. Practicando se facilita lo que les recomendamos más abajo, evita olvidarse de algo que se quería mencionar, evita que nos trabemos y evita el no saber quién va o que hable una sola persona mucho tiempo.
 
 ## Los Miembros del Grupo Hablen de Manera Intercalada
 
 Se debería buscar que la división sea equitativa y no del estilo "Yo presento el problema 1 y vos el problema 2".
 
-Tener en cuenta que es requisito para la aprobación de los TPs que todos los miembros conozcan como resolvieron todo lo concierne a cada TP. Esta estrategía es una buena manera de afianzar todo y no únicamente focalizarse en un tema particular de los abordados por el TP.
+Tener en cuenta que es requisito para la aprobación de los TPs que todos los miembros conozcan como resolvieron todo lo concierne a cada TP. Esta estrategia es una buena manera de afianzar todo y no únicamente focalizarse en un tema particular de los abordados por el TP.
 
-Tener presente que en el caso de que sólo un miembro del equipo presente un ejercicio o tema particular sus compañeros sean interpelados.
+Tener presente que en el caso de que solo un miembro del equipo presente un ejercicio o tema particular sus compañeros sean interpelados.
 
 ## Incluir Gráficos Representativos para los Datos que se Muestren
 
 Los datos se pueden mostrar de muchas formas como sueltos, con tablas o con gráficos.
 
-En cada caso esta bueno evaluar cuál es la mejor manera de mostrarlos por varios motivos: nos ayuda a mostrar mejor alguna cuestión y, ¡podemos encontrar algo de interés observandolo! 
+En cada caso está bueno evaluar cuál es la mejor manera de mostrarlos por varios motivos: nos ayuda a mostrar mejor alguna cuestión y, ¡podemos encontrar algo de interés observándolo! 
 
-Puede ser que algo que con los datos crudos jamás ibamos a encontrar, aparezca tan claro como el agua (y a veces no tanto) en un gráfico. 
+Puede ser que algo que con los datos crudos jamás íbamos a encontrar, aparezca tan claro como el agua (y a veces no tanto) en un gráfico. 
 
 Los gráficos tienen que tener los nombres de los ejes y la escala especificada. Cada gráfico tiene que tener una razón por la cual estar, para representar un resultado particular que quieren mostrar.
 
@@ -65,9 +65,9 @@ Las conclusiones son muy importantes a la hora de mostrar los resultados. Si se 
 
 Los algoritmos que vemos en la materia son estocásticos. Por lo tanto, trabajan con semillas de números aleatorios que tienen que manejar con cuidado.  Por ejemplo, pueden fijar una semilla particular para reproducir resultados. La idea entonces es que vean la evolución de los algoritmos en muchas ejecuciones, y mostrar los resultados en relación a promedios de corridas.  Pueden usar barras de errores en los gráficos para mostrar este tipo de información.
 
-**Al momento de presentar mediciones de cantidades estocásticas nunca presentar mediciones únicas.** Ejemplos de cantidades estocásticas incluyen el tiempo de ejecucion de los programas o el mejor fitness encontrado por el motor de algoritmos geneticos. Para reportar mediciones de estas cantidades **lo que se busca es dar a entender las distribuciones que se observaron durante los experimentos**. 
+**Al momento de presentar mediciones de cantidades estocásticas nunca presentar mediciones únicas.** Ejemplos de cantidades estocásticas incluyen el tiempo de ejecución de los programas o el mejor fitness encontrado por el motor de algoritmos genéticos. Para reportar mediciones de estas cantidades **lo que se busca es dar a entender las distribuciones que se observaron durante los experimentos**. 
 
-Una manera de lograr esto ultimo es realizando varias mediciones (ejecutar múltiples veces el programa), promediándolas entre sí y calculando su desvío estándar. 
+Una manera de lograr esto último es realizando varias mediciones (ejecutar múltiples veces el programa), promediándolas entre sí y calculando su desvío estándar. 
 
 Por ejemplo, en vez de presentar
 | Algoritmo | Tiempo de ejecución |
