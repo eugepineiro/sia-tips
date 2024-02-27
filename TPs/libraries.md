@@ -2,6 +2,26 @@
 
 ## Python 
 
+En la mayoría de los TPs van a tener que realizar gráficos, incluso en realtime. Para ello, recomendamos el uso de plotly o matplotlib.
+### [plotly](https://plotly.com/python/)
+```python
+pip3 install plotly
+```
+```python
+import plotly.express as px
+import plotly.graph_objects as go
+```
+
+### [matplotlib](https://matplotlib.org/)
+En particular, pyplot y animation son de gran utilidad. 
+```python
+pip3 install matplotlib
+```
+```python
+import matplotlib.pyplot as plt
+from matplotlib.animation import FuncAnimation
+```
+
 ### [arcade](https://api.arcade.academy/en/latest/)
 Se trata de una librería para crear videojuegos en 2D.
 Sirve para diseñar el tablero del Sokoban en el TP1 de Métodos de Búsqueda. Es fácil de aprender y de usar 
@@ -10,6 +30,11 @@ pip3 install arcade
 ```
 ```python
 import arcade
+```
+### [pygame](https://www.pygame.org/wiki/GettingStarted)
+Se trata de una librería para crear videojuegos en Python 
+```python
+pip3 install pygame
 ```
 
 ### [pandas](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
@@ -20,17 +45,6 @@ pip install pandas
 ```
 ```python
 import pandas as pd
-```
-
-### [matplotlib](https://matplotlib.org/)
-En la mayoría de los TPs van a tener que realizar gráficos, incluso en realtime. Para ello, recomendamos el uso de matplotlib.
-En particular, pyplot y animation son de gran utilidad. 
-```python
-sudo pip3 install matplotlib
-```
-```python
-import matplotlib.pyplot as plt
-from matplotlib.animation import FuncAnimation
 ```
 
 ### [sklearn](https://scikit-learn.org/stable/index.html) 
@@ -51,4 +65,3 @@ En particular, usamos el de [Powell](https://docs.scipy.org/doc/scipy/reference/
 from scipy.optimize import minimize
 ```
 
-## Java
